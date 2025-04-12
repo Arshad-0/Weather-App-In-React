@@ -3,7 +3,7 @@
 <p align="center">Live weather updates for any city, built with ⚛️ React + ⚡ Vite + 🌐 OpenWeatherMap API.</p>
 
 <p align="center">
-  <a href="[https://weather-app-in-react-fawn.vercel.app](https://vercel.com/arshad-shaikhs-projects/weather-app-in-react-1d4p)" target="_blank">
+  <a href="https://weather-app-in-react-1d4p.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Live Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo">
   </a>
 </p>
@@ -12,28 +12,28 @@
 
 ## 📌 What is this?
 
-A stylish and responsive weather app where you can search for **any city's weather**, see live temperature, weather conditions, and watch the background change depending on the mood 🌦️
+A stylish and responsive weather app where you can search for **any city's weather**, view live temperature, current conditions, and experience mood-based background changes 🌦️
 
 ---
 
 ## 🚀 Features
 
-- 🌍 **City-based Search**  
+- 🌍 **City-based Weather Search**  
 - 🌄 **Dynamic Weather Backgrounds**  
 - 🌓 **Dark Mode Support**  
-- 💨 **Real-time Weather from OpenWeatherMap**  
-- ⚡ **Fast, Lightweight, and Responsive**
+- 💨 **Real-time Data from OpenWeatherMap**  
+- ⚡ **Fast & Responsive UI**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech        | Description                             |
-|-------------|-----------------------------------------|
-| React       | Frontend Library                        |
-| Vite        | Lightning-fast build tool               |
-| OpenWeatherMap API | Real-time weather data          |
-| CSS         | Custom styling with Flexbox & Grid      |
+| Tech               | Description                             |
+|--------------------|-----------------------------------------|
+| React              | Frontend UI Library                     |
+| Vite               | Lightning-fast development server       |
+| OpenWeatherMap API | Real-time weather data                  |
+| CSS                | Responsive layouts & transitions        |
 
 ---
 
@@ -50,8 +50,8 @@ A stylish and responsive weather app where you can search for **any city's weath
    npm install
    ```
 
-3. **Set up environment variable**
-   Create a `.env` file in the root directory and add:
+3. **Set up your environment**
+   Create a `.env` file in the root and add your API key:
    ```
    VITE_WEATHER_API_KEY=your_api_key_here
    ```
@@ -61,14 +61,14 @@ A stylish and responsive weather app where you can search for **any city's weath
    npm run dev
    ```
 
-> Open the app at **http://localhost:5173**
+✅ Or skip setup and try it now 👉 [**Live Demo on Vercel**](https://weather-app-in-react-1d4p.vercel.app/)
 
 ---
 
-
 ## 💬 Contact
 
-Want to reach out? Connect with me here:  
+Want to connect or share feedback?
+
 🔗 [GitHub @Arshad-0](https://github.com/Arshad-0)
 
 ---
